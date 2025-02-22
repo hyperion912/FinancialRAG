@@ -1,0 +1,8 @@
+langchain 
+langchain-community 
+faiss-cpu 
+langchain-ollama 
+python-dotenv 
+docling 
+langchain-docling
+pdf2image
